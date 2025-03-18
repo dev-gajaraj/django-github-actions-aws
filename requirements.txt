@@ -1,1 +1,4 @@
+asgiref==3.8.1
 Django==4.0
+legacy-cgi==2.6.2
+sqlparse==0.5.3
